@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.player03.com	TRUE	/	FALSE	1999999999	__cf_bm	qrcm9iNcnmqKYPFj1sbl2or0eKJUvUh3sS8DyX_uZR0-1757970044-1.0.1.1-84K_BH5VtGtgnqsrATd.KD4i4Eseu.ZA7meozjaz40778E99gYATzd6UgT3Lg_1LN56sSfq4aYv.vBFZbWPA1cIWiN.uaUZDSNPYHF1iq9A
+.player03.com	TRUE	/	FALSE	1999999999	_cfuvid	dm43OQcR9CJfVjQ5enAhx3g.m7LufpyTIWXwwmUPCBA-1757970044579-0.0.1.1-604800000
+player03.com	TRUE	/	FALSE	1999999999	SameSite	None
+

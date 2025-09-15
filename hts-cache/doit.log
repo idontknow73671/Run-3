@@ -1,0 +1,8 @@
+https://player03.com/run/3/beta/ -O /Users/johnsmajlaj/Desktop/run3 +*.player03.com/* -v
+File generated automatically on Mon, 15 Sep 2025 17:00:30, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

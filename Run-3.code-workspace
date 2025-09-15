@@ -1,9 +1,19 @@
 {
 	"folders": [
 		{
+			"name": "Run-3",
 			"path": "."
 		},
 		{
+			"name": "player03.com",
+			"path": "../../../Desktop/run3/player03.com"
+		},
+		{
+			"name": "hts-cache",
+			"path": "../../../Desktop/run3/hts-cache"
+		},
+		{
+			"name": "run3",
 			"path": "../../../Desktop/run3"
 		}
 	],
